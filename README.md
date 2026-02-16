@@ -240,7 +240,7 @@
                 </p>
 
                 <!-- Photo Upload Section -->
- 243
+ 
 
 
                <div class="bg-gradient-to-r from-pink-100 to-purple-100 rounded-3xl p-6 mb-8 border-2 border-pink-200">
